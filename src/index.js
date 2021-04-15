@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Contador from './Contador'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Contador valor1={4} valor2={2} nombre={'Leidy Vanesa'}/>
   </React.StrictMode>,
   document.getElementById('root')
 );

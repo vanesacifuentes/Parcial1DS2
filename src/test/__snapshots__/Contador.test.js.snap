@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre el componente contador Probando con enzyme 1`] = `
+<Fragment>
+  <h1>
+    Señor(a) 
+    Leidy Vanesa
+     la suma o resta de 
+    4
+     y 
+    2
+     es: 
+  </h1>
+  <h1>
+    Valor total: 
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     Sumar 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     Restar 
+  </button>
+</Fragment>
+`;
